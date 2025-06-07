@@ -1,0 +1,11 @@
+.hidden { display: none; }
+.metric-status {
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+.status-normal { background-color: #D1FAE5; color: #065F46; }
+.status-moderate { background-color: #FEF3C7; color: #92400E; }
+.status-alert { background-color: #FEE2E2; color: #B91C1C; }
+.chart-container { position: relative; height: 300px; }
